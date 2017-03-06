@@ -1,4 +1,4 @@
-# MC-OL12
+# MC-PFAL10AEMPRI
 ![electric_panel_icon](el_icon_4.jpg)
 ## Schema per quadro elettrico per ascensore
 
