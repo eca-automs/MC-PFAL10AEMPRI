@@ -1,0 +1,29 @@
+M1-M1-M1                 MOTORE PORTE LATO 1
+M2-M2-M2                 MOTORE PORTE LATO 2
+PTC-PTC                  TERMISTORI MOTORE ARGANO
+GND-KCB                  CHIAVE PRIORITARIA CABINA
+GND-KPI                  CHIAVI PRIORITARIE PIANI
+SCH-A-B-C-D              ENCODER ARGANO
+
+GND-IAX                  INDUTTORE FERMATA CON PIANI CORTI ESTREMI
+
+AL- -AL1                 PULSANTE ALLARME
+AL- - ALR                SPIA ALLARME RICEVUTO
+AL- - ALP                LUMINOSA ALLARME AI PIANI
+AL- - PAR                PULSANTE ALLARME RICEVUTO
+AL- - PRS                PULSANTE RESET ALLARME
+AL- - AL+                ALIMENTAZIONE CITOFONO IN ALLARME
+AL+ - AL2                SUONERIA ALLARME
+AL+ - LEM                LUCE EMERGENZA 12VDC
+
+THV-THV                  CONTATTO TERMICO VENTOLA MOTORE
+RVF-RVF-RVF              MOTORE VENTOLA RAFFREDDAMENTO
+
+IG-IG                    4°POLO INTERRUTTORE GENERALE
+-                        NEGATIVO BATTERIE
+24                       PRESA 24V BATTERIE
+48                       PRESA 48V BATTERIE
+72                       PRESA 72V BATTERIE
+96                       PRESA 96V BATTERIE
+
+TN                       COMUNE TERRE QUADRO
