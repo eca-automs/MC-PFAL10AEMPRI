@@ -1115,7 +1115,7 @@ AcDbViewportTableRecord
  21
 1
  12
-243.662543130034
+244.0438616638838
  22
 151.3834579383779
  13
@@ -9017,52 +9017,6 @@ MTEXT
 100
 AcDbEntity
   8
-frame-title
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-302.3333339693398
- 20
-35
- 30
-0
- 40
-3
- 41
-51.5833326973273
- 71
-    1
- 72
-    1
-  1
-Schema: MC-FAL10AEMCEL\PFoglio: 21 di 21
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-118
-100
-AcDbEntity
-  8
 schematic
   6
 ByLayer
@@ -9104,6 +9058,52 @@ I EMERGENZA\PRVF                    RELÈ VENTOLA MOTORE\PRD1                   
 X-SMD           SCHEDA MADRE MICROPROCESSORE\PPER16B-SMD             SCHEDA ESPANSIONE CHIAMATE-LUMINOSE\PECA-CONSER-PE          SCHEDA CONNESS.DUPLEX\PL1307                  SCHEDA LEGGE 13\PMIAE                   SCHEDA EMERGENZA\PL1000A           
   1
       VVVF YASKAWA L1000A\P
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+118
+100
+AcDbEntity
+  8
+frame-title
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+302.3333339693398
+ 20
+35
+ 30
+0
+ 40
+3
+ 41
+53.58333269732729
+ 71
+    1
+ 72
+    1
+  1
+Schema: MC-PFAL10AEMPRI\PFoglio: 22 di 22
   7
 standard
 210

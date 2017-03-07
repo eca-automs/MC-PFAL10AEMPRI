@@ -1117,7 +1117,7 @@ AcDbViewportTableRecord
  12
 231.0790315129899
  22
-152.5274135399274
+152.9087320737772
  13
 0
  23
@@ -9017,52 +9017,6 @@ MTEXT
 100
 AcDbEntity
   8
-frame-title
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-302.3333339693398
- 20
-35
- 30
-0
- 40
-3
- 41
-51.5833326973273
- 71
-    1
- 72
-    1
-  1
-Schema: MC-FAL10AEMCEL\PFoglio: 20 di 21
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-118
-100
-AcDbEntity
-  8
 schematic
   6
 ByLayer
@@ -9096,6 +9050,52 @@ A-B-C-D              ENCODER ARGANO\P\PGND-IAX                  INDUTTORE FERMAT
 C\P\PTHV-THV                  CONTATTO TERMICO VENTOLA MOTORE\PRVF-RVF-RVF              MOTORE VENTOLA RAFFREDDAMENTO\P\PIG-IG                    4%%DPOLO INTERRUTTORE GENERALE\P-                        NEGATIVO BATTERIE\P24                       PRE
   1
 SA 24V BATTERIE\P48                       PRESA 48V BATTERIE\P72                       PRESA 72V BATTERIE\P96                       PRESA 96V BATTERIE\P\PTN                       COMUNE TERRE QUADRO\P
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+118
+100
+AcDbEntity
+  8
+frame-title
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+302.3333339693398
+ 20
+35
+ 30
+0
+ 40
+3
+ 41
+53.58333269732729
+ 71
+    1
+ 72
+    1
+  1
+Schema: MC-PFAL10AEMPRI\PFoglio: 21 di 22
   7
 standard
 210
