@@ -1,6 +1,6 @@
 {
-  "id": "<put the document id here>",
-  "categoryId": "<put the category id here>",
-  "language": "<put the language here>",
-  "download": "<put the download folder path (relative to ecadoc folder) here>"
+  "id": "mc-pfal10aempri",
+  "categoryId": "schematics",
+  "language": "it",
+  "download": "download"
 }
