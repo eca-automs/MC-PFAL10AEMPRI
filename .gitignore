@@ -1,3 +1,6 @@
 #librecad backups
 *.dxf~
 \#*.dxf
+
+node_modules
+ecadoc/download
